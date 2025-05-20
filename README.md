@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hey there! It's Abu Sufian Mahin </b> 👋 — your friendly neighborhood coder! </h1>
+<h1 align="center"><b>Hey there! It's Abu Sufian Mahin </b></h1>
 
 <div align="center">
 <h2> Technologies That I Know👨🏻‍💻 </h2> 
