@@ -13,6 +13,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
     <img src="https://skillicons.dev/icons?i=react" title="React" />
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+    <img src="https://skillicons.dev/icons?i=mongodb" title="mongoDB" />
   </p>
 </p>
 
