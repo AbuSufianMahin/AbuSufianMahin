@@ -1,12 +1,5 @@
 <h1 align="center"><b>Hey there! It's Abu Sufian Mahin </b></h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=CSE+Student;Tech+Enthusiast;MERN+Stack+Developer;Firebase+%26+MongoDB+Ninja;Lifelong+Learner" alt="Typing SVG" />
-  </a>
-</p>
-
-
 <div align="center">
 <h2> Technologies That I Know</h2> 
 
