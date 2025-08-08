@@ -25,6 +25,19 @@ I value clean code, continuous learning, and collaborative growth.
 
 ---
 
+### 📊 GitHub Streak Stats
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-sigma-beryl.vercel.app?user=AbuSufianMahin&theme=tokyonight&hide_border=true&card_width=700"
+    alt="GitHub Streak"
+    width="90%"
+    height="auto"
+    style="display: block; object-fit: contain;"
+  />
+</p>
+
+---
+
 ### 🛠️ Skills & Technologies
 
 #### 🐍 Programming Languages
