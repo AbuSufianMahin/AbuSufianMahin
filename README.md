@@ -1,17 +1,28 @@
-<h1 align="center">Hi 👋, I'm Abu Sufian Mahin</h1>
+<p align="center">
+  <img src="https://github.com/AbuSufianMahin/AbuSufianMahin/blob/main/github%20banner.png" alt="Banner" width="600" style="border-radius:10px;" />
+</p>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=480&lines=CSE+Undergraduate;Aspiring+Software+Developer;Tech+Explorer;Web+Developer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Rubik+Maps&size=32&color=9B7EBD&duration=3000&pause=1000&center=true&random=false&width=435&height=60&lines=A+CSE+Undergraduate;An+Aspiring+Software+Developer;A+Tech+Explorer;A+Web+Developer"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
+
 
 ---
 
 ### 🧑‍💻 About Me
 
-I’m a Computer Science undergraduate passionate about learning and building in the tech space.  
-I enjoy solving problems through code and have experience working with Python, MySQL, and web technologies.  
-Currently exploring the world of full-stack development while keeping an open mind toward other domains.  
-I value clean code, continuous learning, and collaborative growth.
+<p>
+I’m Abu Sufian Mahin, a Computer Science undergrad at BRAC University with skills in
+<b>Python</b>, <b>React</b>, <b>MySQL</b>, <b>MongoDB</b>, <b>Firebase</b>, and <b>Tailwind CSS</b>.
+I’m passionate about coding, problem-solving, and building full-stack web apps. I focus on clean, efficient code and continuous learning.
+Always eager to collaborate and contribute to open source!
+</p>
 
 ---
 
