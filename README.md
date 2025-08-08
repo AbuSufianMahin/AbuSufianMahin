@@ -6,11 +6,12 @@
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Rubik+Maps&size=32&color=9B7EBD&duration=3000&pause=1000&center=true&random=false&width=435&height=60&lines=A+CSE+Undergraduate;An+Aspiring+Software+Developer;A+Tech+Explorer;A+Web+Developer"
+      src="https://readme-typing-svg.demolab.com?font=Rubik+Maps&size=32&color=9B7EBD&duration=3000&pause=1000&center=true&random=false&width=700&height=60&lines=A+CSE+Undergraduate;An+Aspiring+Software+Developer;A+Tech+Explorer;A+Web+Developer"
       alt="Typing SVG"
     />
   </a>
 </p>
+
 
 
 ---
