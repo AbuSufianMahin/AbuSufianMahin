@@ -29,10 +29,9 @@ Always eager to collaborate and contribute to open source!
 
 ### 🔄 Current Activities
 
-- 🧪 Exploring **full-stack development** using React, Node.js, and MongoDB.  
-- 🐾 Built a real-world project: **PetConnect**, a pet adoption platform.  
-- 💡 Practicing Python through scripting and problem-solving challenges.  
-- 🔍 Learning about **databases** – working with both **MongoDB** and **MySQL**.  
+- ⚡ Learning **Next.js** with **TypeScript**.
+- 💡 Practicing Python through scripting and problem-solving challenges.   
+- 🔍 Learning about **databases** – already familiar with **MongoDB** and **MySQL**, now exploring **PostgreSQL**.
 - 📚 Brushing up on **algorithms and data structures** to strengthen my fundamentals.
 
 ---
