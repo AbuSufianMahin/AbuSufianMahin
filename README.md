@@ -20,7 +20,7 @@
 
 <p>
 I’m Abu Sufian Mahin, a Computer Science undergrad at BRAC University with skills in
-<b>Python</b>, <b>React</b>, <b>MySQL</b>, <b>MongoDB</b>, <b>Firebase</b>, and <b>Tailwind CSS</b>.
+<b>Python</b>, <b>React</b>, <b>Next.js</b>, <b>MySQL</b>, <b>MongoDB</b>, <b>Firebase</b>, and <b>Tailwind CSS</b>.
 I’m passionate about coding, problem-solving, and building full-stack web apps. I focus on clean, efficient code and continuous learning.
 Always eager to collaborate and contribute to open source!
 </p>
