@@ -85,6 +85,9 @@ Always eager to collaborate and contribute to open source!
 ### 🌐 Connect with Me
 
 <p>
+  <a href="https://www.abusufian.tech/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
   <a href="https://www.linkedin.com/in/abu-sufian-mahin" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
