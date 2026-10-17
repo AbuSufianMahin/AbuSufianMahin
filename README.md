@@ -58,7 +58,7 @@
 <h4 align="center">───&nbsp;&nbsp; A C T I V I T Y &nbsp;&nbsp;───</h4>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-sigma-beryl.vercel.app?user=AbuSufianMahin&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats-sigma-beryl.vercel.app?user=AbuSufianMahin&theme=tokyonight&hide_border=true&card_width=700" alt="GitHub Streak" width="60%" />
 </p>
 
 <br />
