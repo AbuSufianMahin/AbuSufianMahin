@@ -35,7 +35,23 @@
 <h4 align="center">───&nbsp;&nbsp; S T A C K &nbsp;&nbsp;───</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,react,nextjs,nodejs,express,mongodb,mysql,firebase,git,github,vscode,vercel&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" height="45" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="45" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" height="45" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" height="45" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" height="45" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" height="45" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="45" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" height="45" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" height="45" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" height="45" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" height="45" />
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" height="45" />
 </p>
 
 <br />
@@ -43,7 +59,10 @@
 <h4 align="center">───&nbsp;&nbsp; N O W &nbsp;&nbsp;───</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,postgres,docker,aws" alt="Currently learning" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="45" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" height="45" />
 </p>
 
 <p align="center">
