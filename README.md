@@ -36,11 +36,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" height="45" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" height="45" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="45" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" height="45" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" height="45" />
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" height="45" />
-  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" height="45" />
   <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" height="45" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="45" />
   <br />
@@ -59,14 +59,12 @@
 <h4 align="center">───&nbsp;&nbsp; N O W &nbsp;&nbsp;───</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" height="45" />
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="45" />
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="45" />
   <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" height="45" />
 </p>
 
 <p align="center">
-  Adding <b>TypeScript</b> to my Next.js projects for safer, more scalable code<br />
   Exploring <b>PostgreSQL</b> alongside the databases I already use<br />
   Learning <b>Docker</b> and <b>AWS</b> to containerize and deploy apps to the cloud<br />
   Sharpening <b>data structures & algorithms</b> to strengthen my fundamentals
